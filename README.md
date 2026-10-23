@@ -82,7 +82,7 @@ First, install [pnpm](https://pnpm.io/installation) and [ProtonVPN](https://prot
 Then, clone the repo and enter the folder:
 
 ```bash
-git clone https://github.com/kauanmezavila/etherbreaker
+git clone https://github.com/kauanmezavila/EtherBreaker
 cd etherbreaker
 ```
 
